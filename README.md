@@ -24,3 +24,4 @@
 #### [机器学习-白板推导系列-受限玻尔兹曼机(Restricted Boltzmann Machine)](https://www.bilibili.com/video/av37510919/)
 #### 机器学习-白板推导系列（二十二）-谱聚类（Spectral Clustering）(https://www.bilibili.com/video/av37166049/)
 #### 机器学习-白板推导系列（二十三）-前馈神经网络（Feedforward Neural Network)(https://www.bilibili.com/video/av40204935/)
+#### 基于深度学习的推荐系统 https://www.bilibili.com/video/av29905315/

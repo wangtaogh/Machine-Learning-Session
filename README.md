@@ -23,3 +23,4 @@
 #### [机器学习-白板推导系列-高斯过程回归(Gaussian Process Regression)](https://www.bilibili.com/video/av35626047/)
 #### [机器学习-白板推导系列-受限玻尔兹曼机(Restricted Boltzmann Machine)](https://www.bilibili.com/video/av37510919/)
 #### 机器学习-白板推导系列（二十二）-谱聚类（Spectral Clustering）(https://www.bilibili.com/video/av37166049/)
+#### 机器学习-白板推导系列（二十三）-前馈神经网络（Feedforward Neural Network)(https://www.bilibili.com/video/av40204935/)

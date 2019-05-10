@@ -25,3 +25,8 @@
 #### 机器学习-白板推导系列（二十二）-谱聚类（Spectral Clustering）(https://www.bilibili.com/video/av37166049/)
 #### 机器学习-白板推导系列（二十三）-前馈神经网络（Feedforward Neural Network)(https://www.bilibili.com/video/av40204935/)
 #### 基于深度学习的推荐系统 https://www.bilibili.com/video/av29905315/
+
+
+
+###动手深度学习 https://space.bilibili.com/209599371/channel/detail?cid=23541
+###李宏毅主页PPT和视频  http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS17.html

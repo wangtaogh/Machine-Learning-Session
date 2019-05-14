@@ -10,6 +10,7 @@
 #### [机器学习-白板推导系列-核方法(Kernel Method)](https://www.bilibili.com/video/av34731384/)
 #### [机器学习-白板推导系列-指数族分布](https://www.bilibili.com/video/av33360526/)
 #### [机器学习-白板推导系列-概率图模型](https://www.bilibili.com/video/av33545406/)
+              贝叶斯网两等价观点(条件独立和因子分解)https://blog.csdn.net/thither_shore/article/details/52209074/
 #### [机器学习-白板推导系列-EM算法](https://www.bilibili.com/video/av31906558/)
 #### [机器学习-白板推导系列-高斯混合模型(GMM)](https://www.bilibili.com/video/av35183585/)
 #### [机器学习-白板推导系列-变分推断(Variational Inference)](https://www.bilibili.com/video/av32047507/)
